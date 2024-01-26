@@ -1,3 +1,10 @@
+documents.js
+cypress.env.json
+
+cypress/downloads
+cypress/screenshoots
+cypress/videos
+
 # Logs
 logs
 *.log
