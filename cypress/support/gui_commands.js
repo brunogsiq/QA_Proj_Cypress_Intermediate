@@ -65,7 +65,7 @@ import 'cypress-wait-until';
     {
         const login = () =>
         {
-          cy.visit('/users/sign_in')
+          cy.visit('/users/30sign_in')
           cy.get(loc.Login.user)
             .type(user)
           cy.get(loc.Login.pass)
