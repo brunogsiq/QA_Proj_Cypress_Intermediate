@@ -5,6 +5,12 @@ cypress/downloads
 cypress/screenshoots
 cypress/videos
 
+node_modules/
+videos/
+screenshoot/
+report/
+
+
 # Logs
 logs
 *.log
